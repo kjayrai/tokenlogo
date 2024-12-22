@@ -1,22 +1,12 @@
 {
   "name": "SOLTEST",
   "symbol": "TEST",
-  "description": "A NEW SOLANA TEST COINn.",
+  "description": "A NEW SOLANA TEST COIN.",
   "image": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
-  "attributes": [                     
+  "attributes": [
     {
-      "trait_type": "Community",
-      "value": "Meme Enthusiasts"
+      "trait_type": "Item",
+      "value": "Developer Portal"
     }
-  ],
-  "external_url": "https://example.com",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
-        "type": "image/png"
-      }
-    ]
-    "category": "image"
-  }
+  ]
 }
