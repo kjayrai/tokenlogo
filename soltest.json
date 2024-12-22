@@ -2,7 +2,7 @@
   "name": "SOLTEST",
   "symbol": "TEST",
   "description": "A NEW SOLANA TEST COINn.",
-  "image": "https://github.com/kjayrai/tokenlogo/blob/main/SOLTE.png",
+  "image": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
   "attributes": [                     
     {
       "trait_type": "Community",
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/kjayrai/tokenlogo/blob/main/SOLTE.png",
+        "uri": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
         "type": "image/png"
       }
     ]
