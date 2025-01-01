@@ -1,12 +1,9 @@
 {
-  "name": "SOLTEST",
-  "symbol": "TEST",
-  "description": "A NEW SOLANA TEST COIN.",
-  "image": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
-  "attributes": [
-    {
-      "trait_type": "Item",
-      "value": "Developer Portal"
+    "name": "SOLMEME",
+    "symbol": "SOLMEME",
+    "image": "https://raw.githubusercontent.com/kjayrai/tokenlogo/main/SOLTE.png",
+    "description": "A NEW SOLANA MEME COIN.",
+    "creator": {
+        "name": "SOLMEME",
     }
-  ]
 }
